@@ -2,7 +2,7 @@
 
 ## [front end plans](https://github.com/RedrockTeam/2017_summer_plan/blob/master/FE_plans.md)
 
-## [back end ..](./)
+## [back end plans](https://github.com/RedrockTeam/2017_summer_plan/blob/master/BE_plans.md)
 
 ## 新生专题网项目分组情况
 > 自己选的队友，希望到时候多多交流，分好工谁切哪一张图。遇到问题尽量先自己解决。多考虑一下优化，尽量兼容IE9，特别是360浏览器。
