@@ -117,5 +117,5 @@ PHP7：
 + 《Head First Servlets & JSP》
 + 《Java程序设计》（慕课版） 学校指定教材 推荐找学长或者二手书市场
 + 《鸟哥的 Linux 私房菜》 基础学习篇
-
+- 《Modern PHP》
 
